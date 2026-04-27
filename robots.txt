@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://danielerotolo.github.io//sitemap.xml
+Sitemap: https://danielerotolo.github.io/sitemap.xml
