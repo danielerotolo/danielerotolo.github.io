@@ -11,7 +11,7 @@ subtitle: >
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,4 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! My research sits at the intersection of science policy and innovation studies, and spans themes such as: the conceptualisation and operationalisation of emerging technologies, the role of AI in scientific research, inter-organisational network dynamics in the context of technological change, corporate science and knowledge disclosures, the role of universities in the green and sustainable transition, and scientometric mapping techniques. This research has been funded by the European Commission, Italian Ministry of University and Research, Cancer Research UK, and the Higher Education Funding Council for England. My work has been published in journals such as Research Policy, Journal of Organizational Behavior, Technological Forecasting and Social Change, and Journal of the Association for Information Science and Technology. I also serve as an Editor of Research Policy.
+Welcome! My research sits at the intersection of science policy and innovation studies, and spans themes such as: the conceptualisation and operationalisation of emerging technologies, the role of AI in scientific research, inter-organisational network dynamics in the context of technological change, corporate science and knowledge disclosures, the role of universities in the green and sustainable transition, and scientometric mapping techniques. This research has been funded by the European Commission, Italian Ministry of University and Research, Cancer Research UK, and the Higher Education Funding Council for England. My work has been published in journals such as Research Policy, Journal of Organizational Behavior, Technological Forecasting and Social Change, and Journal of the Association for Information Science and Technology. I also serve as an Editor of [Research Policy](https://www.sciencedirect.com/journal/research-policy).
