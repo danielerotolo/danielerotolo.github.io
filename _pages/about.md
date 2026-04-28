@@ -2,7 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Professor of Science, Technology and Innovation Policy at
+  <a href="https://www.sussex.ac.uk/business-school/people-and-departments/spru">SPRU (Science Policy Research Unit), University of Sussex Business School</a><br>
+  Associate Professor at the
+  <a href="https://www.dmmm.poliba.it/index.php/en/">Department of Mechanics, Mathematics and Management</a>,
+  <a href="https://www.poliba.it/en/">Polytechnic University of Bari</a>
 
 profile:
   align: right
