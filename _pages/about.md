@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Professor of Science, Technology and Innovation Policy, <a href="https://www.sussex.ac.uk/business-school/people-and-departments/spru">SPRU (Science Policy Research Unit), University of Sussex Business School</a><br>
+  Professor of Science, Technology and Innovation Policy, <a href="https://www.sussex.ac.uk/business-school/people-and-departments/spru">SPRU, University of Sussex Business School</a><br>
   and<br>
   Associate Professor, <a href="https://www.dmmm.poliba.it/index.php/en/">Department of Mechanics, Mathematics and Management</a>,
   <a href="https://www.poliba.it/en/">Polytechnic University of Bari</a>
@@ -28,10 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Daniele Rotolo is Professor of Science, Technology and Innovation Policy at the [SPRU (Science Policy Research Unit), University of Sussex Business School](https://www.sussex.ac.uk/business-school/people-and-departments/spru), and Associate Professor at the [Department of Mechanics, Mathematics and Management](https://www.dmmm.poliba.it/index.php/en/), [Polytechnic University of Bari](https://www.poliba.it/en/). 
-
-From 2014 to 2016, he was a Marie Skłodowska-Curie Actions Research Fellow at SPRU (Science Policy Research Unit) and the School of Public Policy. He holds a European Doctorate (PhD) in Innovation Management from Scuola Interpolitecnica, a joint doctoral programme involving the Polytechnic University of Bari, Polytechnic University of Milan, and Polytechnic University of Turin. During his doctoral studies, he was also a visiting researcher at University College London and the Stern School of Business. Daniele has secured research funding from the European Commission, Cancer Research UK, and the Higher Education Funding Council for England. 
-
-His research focuses on the conceptualisation and operationalisation of emerging technologies, inter-organisational network dynamics in contexts of technological change, corporate science, scientometric mapping methods, and barriers to interdisciplinary research. His work has been published in leading journals in science policy and innovation studies, including Research Policy, Journal of Organizational Behavior, and Journal of the Association for Information Science and Technology. He also serves as an Editor of Research Policy and as an ad hoc reviewer for several leading journals in the field.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Welcome! My research sits at the intersection of science policy and innovation studies, and spans themes such as: the conceptualisation and operationalisation of emerging technologies, the role of AI in scientific research, inter-organisational network dynamics in the context of technological change, corporate science and knowledge disclosures, the role of universities in the green and sustainable transition, and scientometric mapping techniques. This research has been funded by the European Commission, Italian Ministry of University and Research, Cancer Research UK, and the Higher Education Funding Council for England. My work has been published in journals such as Research Policy, Journal of Organizational Behavior, Technological Forecasting and Social Change, and Journal of the Association for Information Science and Technology. I also serve as an Editor of Research Policy.
