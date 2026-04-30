@@ -1,81 +1,60 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: UGREENS
+description: University for the GREEN and Sustainable transition
+img: assets/img/ugreens_cover.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-EVERY VERY project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The **UGREENS** (**U**niversity for the **GREEN** and **S**ustainable transition) project aims to advance knowledge of the extent to which universities contribute to building a climate-neutral society and economy through education and research. The project focuses on the Italian university system and examines its contribution to the green and sustainable transition. Universities' education and research activities are conceived as pivotal for the development of skills and knowledge needed for such a transition.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Our knowledge of universities' contribution to this transition challenge remains scant. UGREENS aims to fill this gap by addressing the following overarching research question:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+> *How do Italian universities' education and research activities contribute to the green and sustainable transition?*
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ugreens_1.jpg" title="Green university education" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ugreens_2.jpg" title="Sustainable transition research" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ugreens_3.jpg" title="Green skills development" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    UGREENS investigates how Italian universities integrate green knowledge into teaching, advance green-related research, and transfer that knowledge to local economic and industrial systems.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Key Contributions
+
+UGREENS is expected to make three major contributions to the field.
+
+**First**, the project will examine the extent to which 'green' knowledge has been integrated into Italian universities' teaching offerings, providing longitudinal evidence of universities' contributions to the development of green skills. In doing so, UGREENS will also investigate whether the diffusion of green knowledge into education has had an impact on the promotion of green-friendly attitudes among students — with a specific reference to prospective jobs.
+
+**Second**, UGREENS will examine how the research focus of Italian universities on green-related topics has evolved and affected teaching activities, so as to identify universities that have contributed more substantially towards the production of green knowledge.
+
+**Third**, UGREENS will investigate the impact of Italian universities' green education and research on local economic and industrial activities. This includes an investigation of whether the level of integration of green research into teaching mediates the transfer of universities' green knowledge to production systems.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ugreens_4.jpg" title="Green knowledge transfer" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ugreens_5.jpg" title="Open data infrastructure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    The project will advance theory on the role of universities in supporting societal transitions and develop an open data infrastructure for further research.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Policy Relevance
 
-{% raw %}
+From a policy perspective, the findings of UGREENS are expected to inform the development of policy initiatives and instruments that can augment the contribution of universities to the greening of the economy and society.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+For further outputs, see:
+- [**Policy Briefs**](https://reskill-research.eu/research-outputs/policy-briefs/)
+- [**Working Papers**](https://reskill-research.eu/research-outputs/working-papers/)
