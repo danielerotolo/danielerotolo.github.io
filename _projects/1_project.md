@@ -8,6 +8,10 @@ category: work
 related_publications: true
 ---
 
+| Funder |  Italian Ministyr|
+|-Budget-|--|
+| Partners |  |
+
 The **UGREENS** (**U**niversity for the **GREEN** and **S**ustainable transition) project aims to advance knowledge of the extent to which universities contribute to building a climate-neutral society and economy through education and research. The project focuses on the Italian university system and examines its contribution to the green and sustainable transition. Universities' education and research activities are conceived as pivotal for the development of skills and knowledge needed for such a transition.
 
 Our knowledge of universities' contribution to this transition challenge remains scant. UGREENS aims to fill this gap by addressing the following overarching research question:
