@@ -9,7 +9,7 @@ giscus_comments: false
 ---
 
 
-# Brief description
+## Brief description
 The **NET-GENESIS** (Network Micro-Dynamics in Emerging Technologies) project aims to investigate how networks form, evolve and are configured when a new technology emerges. These networks include a number of interlinked actors (e.g. individuals, organisations, institutions) extending across multiple domains in which the reward systems, incentives and power structures can differ markedly (open science vs. market-based).
 
 The architecture of the relationships among these actors may exert a significant influence in shaping technological change in certain directions rather than others, which in turn may have the potential to provide more socially optimal or desirable technological options. A number of examples can be identified to highlight the importance of these networks for emerging technologies. For instance, networks can represent channels through which entrepreneurs and firms access the financial resources (e.g. venture capitals) required to pursue R&D activities. In addition, the open-innovation framework has highlighted how networks are critical conduits for the exchange of knowledge, ideas, and resources among the different actors involved in the innovation process. Finally, networks also extend across science and technology domains, thus stimulating scientific discoveries and supporting the development of novel technological applications.
@@ -21,7 +21,7 @@ While the literature contributing to our understanding on how network variables 
 
 
 
-# Project details
+## Project details
 <table class="table table-borderless mt-4" style="max-width: 700px;">
   <tbody>
     <tr>
@@ -55,5 +55,6 @@ While the literature contributing to our understanding on how network variables 
 </table>
 
 ## Related Publications
-
-{% bibliography --query @*[projects=netgenesis] %}
+{% reference Petersen2016 %}
+{% reference Rotolo2015 %}
+{% reference Rotolo2015a %}
