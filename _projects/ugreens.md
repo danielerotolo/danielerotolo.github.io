@@ -9,7 +9,7 @@ giscus_comments: false
 ---
 
 
-# Brief description
+# Aim
 
 The **UGREENS** (**U**niversity for the **GREEN** and **S**ustainable transition) project aims to advance knowledge of the extent to which universities contribute to building a climate-neutral society and economy through education and research. The project will focus on the Italian university system and on examining its contribution to the green and sustainable transition. Universities’ education and research activities are conceived as pivotal for the development of skills and knowledge needed for such a transition. Our knowledge of the universities’ contribution to the above transition challenge remains scant, however. UGREENS aims to fill this gap by addressing the following overarching research question: How do Italian universities’ education and research activities contribute to the green and sustainable transition?
 
@@ -20,7 +20,7 @@ UGREENS will advance the theory on the role of universities in supporting societ
 <div class="row justify-content-sm-center"> <div class="col-sm-8 mt-3 mt-md-0"> {% include figure.liquid loading="eager" path="assets/img/ugreens.png" title="Green university education" class="img-fluid rounded z-depth-1" %} </div> </div>
 
 
-# Project details
+# Details
 <table class="table table-borderless mt-4" style="max-width: 700px;">
   <tbody>
     <tr>
@@ -42,12 +42,11 @@ UGREENS will advance the theory on the role of universities in supporting societ
         <strong>Fabio Landini</strong> (University of Parma)
       </td>
     </tr>
-    <tr>
-      <td style="color:gray; font-size:0.85rem; text-transform:uppercase; letter-spacing:0.05em; vertical-align:top;">Outcomes</td>
-      <td>
-        <a href="https://reskill-research.eu/research-outputs/working-papers/">Research Papers</a><br>
-        <a href="https://reskill-research.eu/research-outputs/policy-briefs/">Policy Briefs</a>
-      </td>
-    </tr>
   </tbody>
 </table>
+
+
+## Related publications
+- <a href="https://reskill-research.eu/research-outputs/working-papers/" target="_blank"><i class="fas fa-file-pdf"></i> Research Papers</a>
+- <a href="https://reskill-research.eu/research-outputs/policy-briefs/" target="_blank"><i class="fas fa-file-pdf"></i> Policy Briefs</a>
+
