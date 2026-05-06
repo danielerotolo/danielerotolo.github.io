@@ -5,7 +5,7 @@ description: University for the GREEN and Sustainable transition
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 
