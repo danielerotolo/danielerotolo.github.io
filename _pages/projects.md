@@ -66,17 +66,3 @@ horizontal: false
 
 {% assign ongoing = site.projects | where: "category", "ongoing" | sort: "importance" %}
 {% assign completed = site.projects | where: "category", "completed" | sort: "importance" %}
-
-## Ongoing Projects
-
-{% for project in ongoing %}
-  {% include projects.liquid project=project %}
-{% endfor %}
-
----
-
-## Completed Projects
-
-{% for project in completed %}
-  {% include projects.liquid project=project %}
-{% endfor %}
