@@ -4,7 +4,7 @@ title: UGREENS
 description: University for the GREEN and Sustainable transition
 img: assets/img/ugreens.png
 importance: 1
-category: work
+category: ongoing
 giscus_comments: false
 ---
 
