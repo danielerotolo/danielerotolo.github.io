@@ -48,13 +48,13 @@ While the literature contributing to our understanding on how network variables 
 </table>
 
 ## Related publications
-- {% reference Leydesdorff2016a %}
-<a href="https://doi.org/10.1002/asi.23551" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://doi.org/10.48550/arXiv.1502.05676" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
-- {% reference Grassano2017 %}
-<a href="https://doi.org/10.1002/asi.23737" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://doi.org/10.48550/arXiv.1604.04896" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
-- {% reference Petersen2016 %}
-<a href="https://doi.org/10.1016/j.respol.2015.12.004" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://dx.doi.org/10.2139/ssrn.2604702" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
-- {% reference Rotolo2015 %}
+- {% reference Rotolo2015 %}<br>
 <a href="https://doi.org/10.1016/j.respol.2015.06.006" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://dx.doi.org/10.2139/ssrn.2564094" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
-- {% reference Rotolo2015a %}
+- {% reference Rotolo2015a %}<br>
 <a href="https://doi.org/10.1002/asi.23385" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://ssrn.com/abstract=2742165" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
+- {% reference Leydesdorff2016a %}<br>
+<a href="https://doi.org/10.1002/asi.23551" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://doi.org/10.48550/arXiv.1502.05676" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
+- {% reference Petersen2016 %}<br>
+<a href="https://doi.org/10.1016/j.respol.2015.12.004" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://dx.doi.org/10.2139/ssrn.2604702" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
+- {% reference Grassano2017 %}<br>
+<a href="https://doi.org/10.1002/asi.23737" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://doi.org/10.48550/arXiv.1604.04896" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
