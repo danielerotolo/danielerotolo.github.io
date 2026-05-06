@@ -28,6 +28,9 @@ UGREENS will advance the theory on the role of universities in supporting societ
       <td>Italian Ministry of University and Research<br>(PRIN 2022 PNRR, o Research Projects of National Relevance in the framework of National Recovery and Resilience Plan)</td>
     </tr>
     <tr>
+      <td style="color:gray; font-size:0.85rem; text-transform:uppercase; letter-spacing:0.05em; vertical-align:top;">Role</td>
+      <td>Principal Investigator</td>
+    </tr>
       <td style="color:gray; font-size:0.85rem; text-transform:uppercase; letter-spacing:0.05em; vertical-align:top;">Budget<br>(Period)</td>
       <td>€ 266,005<br>(Nov. 2023 – Feb. 2026)</td>
     </tr>

@@ -2,7 +2,7 @@
 layout: page
 title: NET-GENESIS
 description: Network Micro-Dynamics in Emerging Technologies
-img: assets/img/ugreens.png
+img: assets/img/net_genesis_logo.png
 importance: 1
 category: completed
 giscus_comments: false
@@ -10,14 +10,14 @@ giscus_comments: false
 
 
 # Brief description
+The **NET-GENESIS** (Network Micro-Dynamics in Emerging Technologies) project aims to investigate how networks form, evolve and are configured when a new technology emerges. These networks include a number of interlinked actors (e.g. individuals, organisations, institutions) extending across multiple domains in which the reward systems, incentives and power structures can differ markedly (open science vs. market-based).
 
-The **UGREENS** (**U**niversity for the **GREEN** and **S**ustainable transition) project aims to advance knowledge of the extent to which universities contribute to building a climate-neutral society and economy through education and research. The project will focus on the Italian university system and on examining its contribution to the green and sustainable transition. Universities’ education and research activities are conceived as pivotal for the development of skills and knowledge needed for such a transition. Our knowledge of the universities’ contribution to the above transition challenge remains scant, however. UGREENS aims to fill this gap by addressing the following overarching research question: How do Italian universities’ education and research activities contribute to the green and sustainable transition?
+The architecture of the relationships among these actors may exert a significant influence in shaping technological change in certain directions rather than others, which in turn may have the potential to provide more socially optimal or desirable technological options. A number of examples can be identified to highlight the importance of these networks for emerging technologies. For instance, networks can represent channels through which entrepreneurs and firms access the financial resources (e.g. venture capitals) required to pursue R&D activities. In addition, the open-innovation framework has highlighted how networks are critical conduits for the exchange of knowledge, ideas, and resources among the different actors involved in the innovation process. Finally, networks also extend across science and technology domains, thus stimulating scientific discoveries and supporting the development of novel technological applications.
 
-UGREENS is expected to make three major contributions. First, the project will examine the extent to which ‘green’ knowledge has been integrated into Italian universities’ teaching offerings, thus providing longitudinal evidence of universities’ contributions to the development of green skills. In doing so, UGREENS will also investigate whether the diffusion of green knowledge into education has had an impact on the promotion of green-friendly attitudes among students with a specific reference to prospective jobs. Second, UGREENS will examine how the research focus of Italian universities on green-related topics has evolved and affected teaching activities so as to identify universities that have contributed more substantially towards the production of green knowledge. Finally, UGREENS will investigate the impact of Italian universities’ green education and research on local economic industrial activities. This will include an investigation of whether the level of integration of green research into teaching mediates the transfer of universities’ green knowledge to production systems. 
+While the literature contributing to our understanding on how network variables affect actors’ performance and behaviour is quite large, the genesis and dynamics of the networks surrounding emerging technologies remains a relatively unexplored area of research. The NET-GENESIS project aims to contribute to filling this gap by conducting a comparative study (involving 6 case-studies) on the network micro-dynamics of emerging technologies across three industries, i.e. pharmaceuticals, biotechnology, and nanotechnology. To this end, a mixed qualitative-quantitative approach involving several levels of analysis will be adopted.
 
-UGREENS will advance the theory on the role of universities in supporting societal transitions and develop an open data infrastructure for further research. From the policy perspective, the findings of the project are expected to inform the development of policy initiatives and instruments that can augment the contribution of universities to the greening of the economy and society.
 
-<div class="row justify-content-sm-center"> <div class="col-sm-8 mt-3 mt-md-0"> {% include figure.liquid loading="eager" path="assets/img/ugreens.png" title="Green university education" class="img-fluid rounded z-depth-1" %} </div> </div>
+<div class="row justify-content-sm-center"> <div class="col-sm-8 mt-3 mt-md-0"> {% include figure.liquid loading="eager" path="assets/img/net_genesis.png" title="Green university education" class="img-fluid rounded z-depth-1" %} </div> </div>
 
 
 # Project details
@@ -25,18 +25,22 @@ UGREENS will advance the theory on the role of universities in supporting societ
   <tbody>
     <tr>
       <td style="width:20%; color:gray; font-size:0.85rem; text-transform:uppercase; letter-spacing:0.05em; vertical-align:top;">Funder</td>
-      <td>Italian Ministry of University and Research<br>(PRIN 2022 PNRR, o Research Projects of National Relevance in the framework of National Recovery and Resilience Plan)</td>
+      <td>European Commission<br>(Marie Cuire Fellowship,PIOF-GA-2012-331107)</td>
+    </tr>
+    <tr>
+      <td style="color:gray; font-size:0.85rem; text-transform:uppercase; letter-spacing:0.05em; vertical-align:top;">Role</td>
+      <td>Principal Investigator</td>
     </tr>
     <tr>
       <td style="color:gray; font-size:0.85rem; text-transform:uppercase; letter-spacing:0.05em; vertical-align:top;">Budget<br>(Period)</td>
-      <td>€ 266,005<br>(Nov. 2023 – Feb. 2026)</td>
+      <td>£ 129,422<br>(Mar. 2014 – Mar. 2016)</td>
     </tr>
     <tr>
       <td style="color:gray; font-size:0.85rem; text-transform:uppercase; letter-spacing:0.05em; vertical-align:top;">Partners</td>
       <td>
-        <strong>Alberto Marzucchi</strong> (Gran Sasso Science Institute)<br>
-        <strong>Ugo Rizzo</strong> (University of Ferrara)<br>
-        <strong>Fabio Landini</strong> (University of Parma)
+        <strong>Ben Martin</strong> (SPRU, University of Sussex)<br>
+        <strong>Diana Hicks</strong> (School of Public Policy, Georgia Institute of Technology
+)
       </td>
     </tr>
     <tr>
