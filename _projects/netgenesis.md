@@ -48,6 +48,6 @@ While the literature contributing to our understanding on how network variables 
 </table>
 
 ## Related publications
-- {% reference Petersen2016 %} [[DOI]](https://doi.org/10.1016/j.respol.2015.12.004)
-- {% reference Rotolo2015 %} [[DOI]](https://doi.org/10.1016/j.respol.2015.06.006)
-- {% reference Rotolo2015a %} [[DOI]](https://doi.org/10.1002/asi.23385)
+- {% reference Petersen2016 %} <a href="https://doi.org/10.1016/j.respol.2015.12.004" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://dx.doi.org/10.2139/ssrn.2604702" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
+- {% reference Rotolo2015 %} <a href="https://doi.org/10.1016/j.respol.2015.06.006" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://dx.doi.org/10.2139/ssrn.2564094" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
+- {% reference Rotolo2015a %} <a href="https://doi.org/10.1002/asi.23385" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://ssrn.com/abstract=2742165" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
