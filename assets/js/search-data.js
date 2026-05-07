@@ -485,6 +485,11 @@ ninja.data = [{
           description: "Network Micro-Dynamics in Emerging Technologies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/netgenesis/";
+            },},{id: "projects-pasco",
+          title: 'PASCO',
+          description: "Publication Activity of Scoreboard Companies",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pasco/";
             },},{id: "projects-ugreens",
           title: 'UGREENS',
           description: "University for the GREEN and Sustainable transition",
