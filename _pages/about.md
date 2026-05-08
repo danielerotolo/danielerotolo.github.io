@@ -3,11 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Professor of Science, Technology and Innovation Policy, <a href="https://www.sussex.ac.uk/business-school/people-and-departments/spru">SPRU, University of Sussex Business School</a><br>
-  and<br>
-  Associate Professor, <a href="https://www.dmmm.poliba.it/index.php/en/">Department of Mechanics, Mathematics and Management</a>,
-  <a href="https://www.poliba.it/en/">Polytechnic University of Bari</a>
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -22,11 +17,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-  **Professor of Science, Technology and Innovation Policy**, <a href="https://www.sussex.ac.uk/business-school/people-and-departments/spru">SPRU, University of Sussex Business School</a><br>
-  and<br>
-  **Associate Professor**, <a href="https://www.dmmm.poliba.it/index.php/en/">Department of Mechanics, Mathematics and Management</a>,
+  **Professor of Science, Technology and Innovation Policy**<br><a href="https://www.sussex.ac.uk/business-school/people-and-departments/spru">SPRU, University of Sussex Business School</a><br>
+  **Associate Professor**<br><a href="https://www.dmmm.poliba.it/index.php/en/">Department of Mechanics, Mathematics and Management</a>,
   <a href="https://www.poliba.it/en/">Polytechnic University of Bari</a>
-  
+
 **Welcome!** 
 
 My research sits in the field of **science policy and innovation studies** spannign themes such as: 
