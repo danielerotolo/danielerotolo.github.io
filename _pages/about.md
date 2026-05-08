@@ -24,6 +24,8 @@ latest_posts:
   <a href="https://www.dmmm.poliba.it/index.php/en/">Department of Mechanics, Mathematics and Management</a><br>
   <a href="https://www.poliba.it/en/">Polytechnic University of Bari</a>
 
+---------
+
 **Welcome!** 
 
 My research sits in the field of **science policy and innovation studies** spannign themes such as: 
