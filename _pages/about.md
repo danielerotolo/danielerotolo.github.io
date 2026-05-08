@@ -23,4 +23,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! My research sits at the intersection of science policy and innovation studies, and spans themes such as: the conceptualisation and operationalisation of emerging technologies, the role of AI in scientific research, inter-organisational network dynamics in the context of technological change, corporate science and knowledge disclosures, the role of universities in the green and sustainable transition, and scientometric mapping techniques. This research has been funded by the European Commission, Italian Ministry of University and Research, Cancer Research UK, and the Higher Education Funding Council for England. My work has been published in journals such as Research Policy, Journal of Organizational Behavior, Technological Forecasting and Social Change, and Journal of the Association for Information Science and Technology. I also serve as an Editor of [Research Policy](https://www.sciencedirect.com/journal/research-policy).
+**Welcome!** 
+
+My research sits in the field of science policy and innovation studies spannign themes such as: 
+- *Emerging technologies* — conceptualisation, operationalisation, governance, and collaboration dynamics
+- *Corporate science* — firms' involvement in basis research and knowledge disclosures, university-industry collaboration
+- *Research systems* — research funding complementarity and substitution, the role of universities in the green transition
+- *AI and science* — AI impact on knowledge production and research 
+- *Scientometrics* — bibliometric methods for mapping science, technology, and innovation
+
+This research has been funded by the European Commission, Italian Ministry of University and Research, Cancer Research UK, and the Higher Education Funding Council for England. My work has featured in journals such as *Research Policy*, *Journal of Organizational Behavior*, *Technological Forecasting and Social Change*, and *Journal of the Association for Information Science and Technology*. 
+
+I also as an Editor of [Research Policy](https://www.sciencedirect.com/journal/research-policy) (FT50).
