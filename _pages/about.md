@@ -17,8 +17,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-  **Professor of Science, Technology and Innovation Policy**<br><a href="https://www.sussex.ac.uk/business-school/people-and-departments/spru">SPRU, University of Sussex Business School</a><br>
-  **Associate Professor**<br><a href="https://www.dmmm.poliba.it/index.php/en/">Department of Mechanics, Mathematics and Management</a>,
+  **Professor of Science, Technology and Innovation Policy**<br>
+  <a href="https://www.sussex.ac.uk/business-school/people-and-departments/spru">SPRU (Science Policy Research Unit)</a><br>
+  <a href="https://www.sussex.ac.uk/business-school/">University of Sussex Business School</a><br>
+  **Associate Professor**<br>
+  <a href="https://www.dmmm.poliba.it/index.php/en/">Department of Mechanics, Mathematics and Management</a><br>
   <a href="https://www.poliba.it/en/">Polytechnic University of Bari</a>
 
 **Welcome!** 
