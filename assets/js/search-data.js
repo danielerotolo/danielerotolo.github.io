@@ -443,6 +443,11 @@ ninja.data = [{
           description: "Network Micro-Dynamics in Emerging Technologies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/netgenesis/";
+            },},{id: "projects-pact",
+          title: 'PACT',
+          description: "Learning from Past And Current Transitions. A new PACT for fair and resilient European regions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pact/";
             },},{id: "projects-pasco",
           title: 'PASCO',
           description: "Publication Activity of Scoreboard Companies",
