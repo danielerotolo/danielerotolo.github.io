@@ -1,10 +1,10 @@
 ---
 layout: page
 title: PASCO
-description: Publication Activity of Scoreboard Companies
+description: European Commission, Joint Research Centre [completed]
 img: assets/img/pasco.png
-importance: 1
-category: completed
+importance: 3
+category: pi
 giscus_comments: false
 ---
 

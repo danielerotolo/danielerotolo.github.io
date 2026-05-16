@@ -1,10 +1,10 @@
 ---
 layout: page
 title: UGREENS
-description: University for the GREEN and Sustainable transition
+description: Italian Ministry of University and Research, PRIN PNRR 2022 [completed]
 img: assets/img/ugreens.png
-importance: 2
-category: ongoing
+importance: 1
+category: pi
 giscus_comments: false
 ---
 

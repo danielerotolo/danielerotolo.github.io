@@ -1,10 +1,10 @@
 ---
 layout: page
 title: PACT
-description: Learning from Past And Current Transitions. A new PACT for fair and resilient European regions
+description: European Commission, Horizon [ongoing]
 img: assets/img/pact.png
 importance: 1
-category: ongoing
+category: coi
 giscus_comments: false
 ---
 
