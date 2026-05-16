@@ -3,13 +3,13 @@ layout: page
 title: NET-GENESIS
 description: Network Micro-Dynamics in Emerging Technologies
 img: assets/img/netgenesis_logo.png
-importance: 1
+importance: 2
 category: completed
 giscus_comments: false
 ---
 
 
-## Aim
+### Aim
 The **NET-GENESIS** (Network Micro-Dynamics in Emerging Technologies) project aims to investigate how networks form, evolve and are configured when a new technology emerges. These networks include a number of interlinked actors (e.g. individuals, organisations, institutions) extending across multiple domains in which the reward systems, incentives and power structures can differ markedly (open science vs. market-based).
 
 The architecture of the relationships among these actors may exert a significant influence in shaping technological change in certain directions rather than others, which in turn may have the potential to provide more socially optimal or desirable technological options. A number of examples can be identified to highlight the importance of these networks for emerging technologies. For instance, networks can represent channels through which entrepreneurs and firms access the financial resources (e.g. venture capitals) required to pursue R&D activities. In addition, the open-innovation framework has highlighted how networks are critical conduits for the exchange of knowledge, ideas, and resources among the different actors involved in the innovation process. Finally, networks also extend across science and technology domains, thus stimulating scientific discoveries and supporting the development of novel technological applications.
@@ -21,7 +21,7 @@ While the literature contributing to our understanding on how network variables 
 
 
 
-## Details
+### Details
 <table class="table table-borderless mt-4" style="max-width: 700px;">
   <tbody>
     <tr>
@@ -47,7 +47,7 @@ While the literature contributing to our understanding on how network variables 
   </tbody>
 </table>
 
-## Related publications
+### Related publications
 - {% reference Rotolo2015 %}<br>
 <a href="https://doi.org/10.1016/j.respol.2015.06.006" target="_blank"><i class="fas fa-file-pdf"></i> Publisher</a> · <a href="https://dx.doi.org/10.2139/ssrn.2564094" target="_blank"><i class="fas fa-file-pdf"></i> Pre-print</a>
 - {% reference Rotolo2015a %}<br>

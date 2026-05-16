@@ -2,22 +2,18 @@
 layout: page
 title: PASCO
 description: Publication Activity of Scoreboard Companies
-img: assets/img/netgenesis_logo.png
+img: assets/img/pasco.png
 importance: 1
 category: completed
 giscus_comments: false
 ---
 
 
-## Aim
+### Aim
 The PASCO (**P**ublication **A**ctivity of **S**coreboard **CO**mpanies) examines the publication activity of 2,500 firms most active in terms of R&D investment in 2013.
 
 
-<div class="row justify-content-sm-center"> <div class="col-sm-8 mt-3 mt-md-0"> {% include figure.liquid loading="eager" path="assets/img/pasco.jpg" title="Green university education" class="img-fluid rounded z-depth-1" %} </div> </div>
-
-
-
-## Details
+### Details
 <table class="table table-borderless mt-4" style="max-width: 700px;">
   <tbody>
     <tr>
@@ -41,7 +37,7 @@ The PASCO (**P**ublication **A**ctivity of **S**coreboard **CO**mpanies) examine
   </tbody>
 </table>
 
-## Related publications
+### Related publications
 - {% reference Rotolo2022 %}<br>
 <a href="https://doi.org/10.1016/j.respol.2022.104606" target="_blank"><i class="fas fa-file-pdf"></i> Publisher (Open Access)</a>
 - Rotolo, D., & Camerani, R. (2017). Scientific publication activity of 2014 Scoreboard Companies (tech. rep.). SPRU-University of Sussex (Brighton, UK) for IPTS, JRC, European Commission. 
