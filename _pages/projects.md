@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [pi, coi]
+display_categories: [PI, Co-I]
 horizontal: false
 ---
 
@@ -64,5 +64,5 @@ horizontal: false
 {% endif %}
 </div>
 
-{% assign ongoing = site.projects | where: "category", "ongoing" | sort: "importance" %}
-{% assign completed = site.projects | where: "category", "completed" | sort: "importance" %}
+{% assign PI = site.projects | where: "category", "PI" | sort: "importance" %}
+{% assign Co-I = site.projects | where: "category", "Co-I" | sort: "importance" %}

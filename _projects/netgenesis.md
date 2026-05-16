@@ -4,7 +4,7 @@ title: NET-GENESIS
 description: European Commission, Marie Curie Felloship [completed]
 img: assets/img/netgenesis_logo.png
 importance: 2
-category: pi
+category: PI
 giscus_comments: false
 ---
 

@@ -4,7 +4,7 @@ title: PACT
 description: European Commission, Horizon [ongoing]
 img: assets/img/pact.png
 importance: 1
-category: coi
+category: Co-I
 giscus_comments: false
 ---
 

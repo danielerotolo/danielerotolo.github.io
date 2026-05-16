@@ -4,7 +4,7 @@ title: PASCO
 description: European Commission, Joint Research Centre [completed]
 img: assets/img/pasco.png
 importance: 3
-category: pi
+category: PI
 giscus_comments: false
 ---
 

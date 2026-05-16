@@ -4,7 +4,7 @@ title: Sustainability-oriented Firms
 description: Italian Ministry of University and Research, PRIN 2022 [completed]
 img: assets/img/ugreens.png
 importance: 2
-category: coi
+category: Co-I
 giscus_comments: false
 ---
 

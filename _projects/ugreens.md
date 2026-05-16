@@ -4,7 +4,7 @@ title: UGREENS
 description: Italian Ministry of University and Research, PRIN PNRR 2022 [completed]
 img: assets/img/ugreens.png
 importance: 1
-category: pi
+category: PI
 giscus_comments: false
 ---
 
