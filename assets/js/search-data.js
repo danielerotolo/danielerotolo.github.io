@@ -440,22 +440,27 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-net-genesis",
           title: 'NET-GENESIS',
-          description: "Network Micro-Dynamics in Emerging Technologies",
+          description: "European Commission, Marie Curie Felloship [completed]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/netgenesis/";
             },},{id: "projects-pact",
           title: 'PACT',
-          description: "Learning from Past And Current Transitions. A new PACT for fair and resilient European regions",
+          description: "European Commission, Horizon [ongoing]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pact/";
             },},{id: "projects-pasco",
           title: 'PASCO',
-          description: "Publication Activity of Scoreboard Companies",
+          description: "European Commission, Joint Research Centre [completed]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pasco/";
+            },},{id: "projects-sustainability-oriented-firms",
+          title: 'Sustainability-oriented Firms',
+          description: "Italian Ministry of University and Research, PRIN 2022 [completed]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/prin/";
             },},{id: "projects-ugreens",
           title: 'UGREENS',
-          description: "University for the GREEN and Sustainable transition",
+          description: "Italian Ministry of University and Research, PRIN PNRR 2022 [completed]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ugreens/";
             },},{id: "teachings-data-science-fundamentals",
