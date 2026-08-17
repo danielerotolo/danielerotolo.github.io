@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-17'
 papers:
   XOcYLv0AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: 'Exploring and exploiting through external sources: the effect of learning and technological proximity'
     year: '2010'
   XOcYLv0AAAAJ:3fE2CSJIrl8C:
-    citations: 247
+    citations: 243
     title: 'Determinants of patent citations in biotechnology: An analysis of patent influence across the industrial and organizational boundaries'
     year: '2015'
   XOcYLv0AAAAJ:4DMP91E08xMC:
@@ -18,7 +18,7 @@ papers:
     title: Exploring the UK Cancer Research Funding System
     year: '2014'
   XOcYLv0AAAAJ:4JMBOYKVnBMC:
-    citations: 128
+    citations: 130
     title: 'Strategic intelligence on emerging technologies: Scientometric overlay mapping'
     year: '2017'
   XOcYLv0AAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: Chapter 5 Technological accretion in diagnostics
     year: '2016'
   XOcYLv0AAAAJ:EUQCXRtRnyEC:
-    citations: 23
+    citations: 24
     title: 'Deep transitions: A mixed methods study of the historical evolution of mass production'
     year: '2022'
   XOcYLv0AAAAJ:HE397vMXCloC:
@@ -46,11 +46,11 @@ papers:
     title: "El uso de m\xFAltiples mapas de la ciencia para la caractirizaci\xF3n de la posici\xF3n cognitiva en colaboraciones"
     year: '2013'
   XOcYLv0AAAAJ:J_g5lzvAfSwC:
-    citations: 13
+    citations: 14
     title: 'Technological accretion in diagnostics: HPV testing and cytology in cervical cancer screening'
     year: '2016'
   XOcYLv0AAAAJ:K3LRdlH-MEoC:
-    citations: 19
+    citations: 22
     title: Unexpectedness in medical research
     year: '2024'
   XOcYLv0AAAAJ:KxtntwgDAa4C:
@@ -59,14 +59,14 @@ papers:
     year: '2012'
   XOcYLv0AAAAJ:NaGl4SEjCO4C:
     citations: 0
-    title: 'The emergence of molecular biology in the diagnosis of cervical cancer: A network perspective'
+    title: 'The Emergence of Molecular Biology in the Diagnosis of Cervical Cancer: A Network Perspective'
     year: '2015'
   XOcYLv0AAAAJ:P5F9QuxV20EC:
     citations: 5
     title: Do funding sources complement or substitute? Examining the impact of cancer research publications
     year: '2023'
   XOcYLv0AAAAJ:RYcK_YlVTxYC:
-    citations: 20
+    citations: 21
     title: Landscape review of interdisciplinary research in the UK
     year: '2016'
   XOcYLv0AAAAJ:SP6oXDckpogC:
@@ -80,13 +80,13 @@ papers:
   XOcYLv0AAAAJ:Tiz5es2fbqcC:
     citations: 0
     title: 'Technological accretion in diagnostics: HPV testing and Pap testing in cervical cancer screening'
-    year: Unknown Year
+    year: '2016'
   XOcYLv0AAAAJ:Tyk-4Ss8FVUC:
-    citations: 105
+    citations: 106
     title: Bibliometric perspectives on medical innovation using the Medical Subject Headings of PubMed
     year: '2012'
   XOcYLv0AAAAJ:UeHWp8X0CEIC:
-    citations: 105
+    citations: 104
     title: "Leveraging learning behavior and network structure to improve knowledge gatekeepers\u2019 performance"
     year: '2010'
   XOcYLv0AAAAJ:UebtZRa9Y70C:
@@ -94,7 +94,7 @@ papers:
     title: An exploratory study of the role of publishing inventors in nanotechnology
     year: '2013'
   XOcYLv0AAAAJ:W7OEmFMy1HYC:
-    citations: 60
+    citations: 58
     title: 'The impact of old technologies on innovation: the case of the US biotechnology industry'
     year: '2012'
   XOcYLv0AAAAJ:WbkHhVStYXYC:
@@ -105,20 +105,16 @@ papers:
     citations: 0
     title: The Impact of Proximity Dimensions on the Knowledge Diffusion Process
     year: Unknown Year
-  XOcYLv0AAAAJ:XiVPGOgt02cC:
-    citations: 1
-    title: 5 Technological accretion in diagnostics
-    year: '2015'
   XOcYLv0AAAAJ:YOwf2qJgpHMC:
     citations: 25
     title: 'Matching Medline/PubMed data with Web of Science: A routine in R language'
     year: '2015'
   XOcYLv0AAAAJ:_FxGoFyzp5QC:
-    citations: 72
+    citations: 73
     title: "Innovation as a nonlinear process, the scientometric perspective, and the specification of an \u2018innovation opportunities explorer\u2019"
     year: '2013'
   XOcYLv0AAAAJ:abG-DnoFyZgC:
-    citations: 22
+    citations: 24
     title: Do firms publish? A multi-sectoral analysis
     year: '2018'
   XOcYLv0AAAAJ:aqlVkmm33-oC:
@@ -134,7 +130,7 @@ papers:
     title: Scientific Publication Activity of Scoreboard Companies
     year: '2017'
   XOcYLv0AAAAJ:blknAaTinKkC:
-    citations: 110
+    citations: 109
     title: 'Funding data from publication acknowledgments: Coverage, uses, and limitations'
     year: '2017'
   XOcYLv0AAAAJ:cFHS6HbyZ2cC:
@@ -143,7 +139,7 @@ papers:
     year: '2012'
   XOcYLv0AAAAJ:dshw04ExmUIC:
     citations: 1
-    title: 'The Emergence of Inter-organisational Networks in Emerging Technologies: The Case of Microneedles'
+    title: 'The emergence of inter-organisational networks in emerging technologies: The case of microneedles'
     year: '2022'
   XOcYLv0AAAAJ:eQOLeE2rZwMC:
     citations: 118
@@ -166,8 +162,8 @@ papers:
     title: 'Emerging technologies, institutional groups and inter-organisational networks: The case of microneedles'
     year: '2025'
   XOcYLv0AAAAJ:lSLTfruPkqcC:
-    citations: 83
-    title: 'Institutional diversity, internal search behaviour, and joint-innovations: Evidence from the US biotechnology industry'
+    citations: 82
+    title: Institutional diversity, internal search behaviour, and joint-innovations
     year: '2015'
   XOcYLv0AAAAJ:mvPsJ3kp5DgC:
     citations: 0
@@ -182,11 +178,11 @@ papers:
     title: Text Mining Historical Sources to Trace Technological Change. The Case of Mass Production
     year: Unknown Year
   XOcYLv0AAAAJ:qUcmZB5y_30C:
-    citations: 114
+    citations: 116
     title: 'A triple helix model of medical innovation: Supply, demand, and technological capabilities in terms of Medical Subject Headings'
     year: '2016'
   XOcYLv0AAAAJ:qxL8FJ1GzNcC:
-    citations: 1789
+    citations: 1792
     title: What Is an Emerging Technology?
     year: '2015'
   XOcYLv0AAAAJ:t6usbXjVLHcC:
@@ -198,15 +194,15 @@ papers:
     title: Mapping the development of hydrogen-based technologies (HBTs) through patent analysis
     year: '2025'
   XOcYLv0AAAAJ:uWQEDVKXjbEC:
-    citations: 3
+    citations: 4
     title: Is corporate science growing or declining?
     year: '2023'
   XOcYLv0AAAAJ:ufrVoPGSRksC:
-    citations: 287
+    citations: 292
     title: 'Organizational factors and technological features in the development of green innovations: Evidence from patent analysis'
     year: '2011'
   XOcYLv0AAAAJ:xtRiw3GOFMkC:
-    citations: 106
+    citations: 108
     title: Why do firms publish? A systematic literature review and a conceptual framework
     year: '2022'
   XOcYLv0AAAAJ:zA6iFVUQeVQC:
