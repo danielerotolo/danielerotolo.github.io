@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-external-engagement",
+          title: "external engagement",
+          description: "Selected media contributions, policy and advisory roles, and research community activities.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/engagement/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
