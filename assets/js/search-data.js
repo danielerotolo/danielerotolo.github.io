@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-external-engagement",
           title: "external engagement",
-          description: "Selected media contributions, policy and advisory roles, and research community activities.",
+          description: "Selected media contributions, and policy and advisory roles",
           section: "Navigation",
           handler: () => {
             window.location.href = "/engagement/";
@@ -438,6 +438,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-cancerscreen",
+          title: 'CANCERSCREEN',
+          description: "ERC Starting Grant, European Commission [completed]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cancerscreen/";
+            },},{id: "projects-deep-transition",
+          title: 'Deep Transition',
+          description: "James Anderson and Baillie Gifford &amp; Co [completed]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/deep_transition/";
+            },},{id: "projects-interdependencies-of-research-funders",
+          title: 'Interdependencies of Research Funders',
+          description: "Cancer Research UK [completed]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/funders_network/";
+            },},{id: "projects-barriers-to-interdisciplinary-research",
+          title: 'Barriers to Interdisciplinary Research',
+          description: "Higher Education Funding Council for England (HEFCE) [completed]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/interdisciplinary_barriers/";
             },},{id: "projects-net-genesis",
           title: 'NET-GENESIS',
           description: "European Commission, Marie Curie Felloship [completed]",
@@ -458,6 +478,11 @@ ninja.data = [{
           description: "Italian Ministry of University and Research, PRIN 2022 [completed]",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prin/";
+            },},{id: "projects-indicators-of-technological-emergence",
+          title: 'Indicators of Technological Emergence',
+          description: "US National Science Foundation (NSF) [completed]",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tech_emergence/";
             },},{id: "projects-ugreens",
           title: 'UGREENS',
           description: "Italian Ministry of University and Research, PRIN PNRR 2022 [completed]",

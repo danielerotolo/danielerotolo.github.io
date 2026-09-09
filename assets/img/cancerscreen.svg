@@ -1,0 +1,16 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#000000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+  <!-- DNA double helix -->
+  <path d="M 150 90 C 190 120, 110 150, 150 180 C 190 210, 110 240, 150 270 C 190 300, 110 330, 150 355"/>
+  <path d="M 210 90 C 170 120, 250 150, 210 180 C 170 210, 250 240, 210 270 C 170 300, 250 330, 210 355"/>
+  <!-- rungs -->
+  <line x1="157" y1="110" x2="203" y2="110"/>
+  <line x1="157" y1="150" x2="203" y2="150"/>
+  <line x1="157" y1="190" x2="203" y2="190"/>
+  <line x1="157" y1="230" x2="203" y2="230"/>
+  <line x1="157" y1="270" x2="203" y2="270"/>
+  <line x1="157" y1="310" x2="203" y2="310"/>
+
+  <!-- Magnifying glass over the helix -->
+  <circle cx="245" cy="150" r="70" stroke-width="13"/>
+  <line x1="295" y1="200" x2="345" y2="250" stroke-width="16"/>
+</svg>

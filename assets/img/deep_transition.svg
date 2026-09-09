@@ -1,0 +1,20 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#000000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Clock face representing history -->
+  <circle cx="150" cy="200" r="95"/>
+  <line x1="150" y1="200" x2="150" y2="135"/>
+  <line x1="150" y1="200" x2="195" y2="215"/>
+  <!-- small tick marks -->
+  <line x1="150" y1="115" x2="150" y2="128"/>
+  <line x1="150" y1="285" x2="150" y2="272"/>
+  <line x1="65" y1="200" x2="78" y2="200"/>
+  <line x1="235" y1="200" x2="222" y2="200"/>
+
+  <!-- Transition arc/arrow moving from clock towards the future -->
+  <path d="M 250 140 C 300 150, 330 180, 330 200 C 330 230, 305 255, 270 260" />
+  <!-- Arrowhead -->
+  <path d="M 250 235 L 270 260 L 297 245" />
+
+  <!-- Small forward chevrons symbolizing "future" -->
+  <path d="M 320 120 L 345 140 L 320 160" stroke-width="10"/>
+  <path d="M 350 120 L 375 140 L 350 160" stroke-width="10"/>
+</svg>
