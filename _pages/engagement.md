@@ -2,7 +2,7 @@
 layout: page
 title: external engagement
 permalink: /engagement/
-description: Selected media contributions, policy and advisory roles, and research community activities.
+description: Selected media contributions, and policy and advisory roles
 nav: true
 nav_order: 4
 ---

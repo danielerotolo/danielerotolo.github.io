@@ -1,0 +1,24 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#000000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Baseline -->
+  <line x1="70" y1="300" x2="330" y2="300"/>
+
+  <!-- Rising bars -->
+  <line x1="110" y1="300" x2="110" y2="255"/>
+  <line x1="160" y1="300" x2="160" y2="220"/>
+  <line x1="210" y1="300" x2="210" y2="175"/>
+
+  <!-- Emergence burst/star above the tallest bar -->
+  <g transform="translate(270,150)">
+    <line x1="0" y1="-38" x2="0" y2="-14"/>
+    <line x1="0" y1="14" x2="0" y2="38"/>
+    <line x1="-38" y1="0" x2="-14" y2="0"/>
+    <line x1="14" y1="0" x2="38" y2="0"/>
+    <line x1="-27" y1="-27" x2="-10" y2="-10"/>
+    <line x1="10" y1="10" x2="27" y2="27"/>
+    <line x1="27" y1="-27" x2="10" y2="-10"/>
+    <line x1="-10" y1="10" x2="-27" y2="27"/>
+  </g>
+
+  <!-- Trend arrow through the bars -->
+  <path d="M 100 265 L 160 225 L 210 185 L 250 165" stroke-width="9" opacity="0.55"/>
+</svg>
